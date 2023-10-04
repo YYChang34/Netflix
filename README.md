@@ -1,4 +1,4 @@
-# Oneline Streaming Service - Netflix
+# Online Streaming Service - Netflix
 In this project aims to build a **front-end Netflix** with a **Firebase back-end**!
 
 Movie Data:
